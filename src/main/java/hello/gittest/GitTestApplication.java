@@ -11,5 +11,6 @@ public class GitTestApplication {
         System.out.println("third2");
         System.out.println("third3");
         System.out.println("third4");
+        System.out.println("third5");
     }
 }
