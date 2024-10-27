@@ -9,5 +9,7 @@ public class GitTestApplication {
         SpringApplication.run(GitTestApplication.class, args);
         System.out.println("test1234");
         System.out.println("third2");
+        System.out.println("third3");
+        System.out.println("third4");
     }
 }
