@@ -12,5 +12,6 @@ public class GitTestApplication {
         System.out.println("fourth");
         System.out.println("fourth2");
         System.out.println("fourth3");
+        System.out.println("fourth4");
     }
 }
